@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-android-23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../adt-bundle-windows-x86_64-20140321/sdk/platforms/android-6.0/android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
